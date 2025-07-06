@@ -1,0 +1,1204 @@
+[
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "50, 6, 1, 48, 111, 50 - напиши наибольшее число. Напиши только ответ.",
+        "outputs": [
+            "111", "сто одиннадцать", "Сто одиннадцать", "Сто одиннадцать.", "сто одиннадцать."
+        ],
+        "meta": {
+            "id": 1,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "L, VI, I, XLVIII, CXI, L - напиши наибольшее число. Напиши только ответ.",
+        "outputs": [
+            "111", "сто одиннадцать", "Сто одиннадцать", "Сто одиннадцать.", "сто одиннадцать.", "CXI"
+        ],
+        "meta": {
+            "id": 2,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "пятьдесят, шесть, один, сорок восемь, сто одиннадцать, пятьдесят - напиши наибольшее число. Напиши только ответ.",
+        "outputs": [
+            "111", "сто одиннадцать", "Сто одиннадцать", "Сто одиннадцать.", "сто одиннадцать."
+        ],
+        "meta": {
+            "id": 3,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "fifty, six, one, forty-eight, one hundred eleven, fifty - напиши наибольшее число. Напиши только ответ.",
+        "outputs": [
+            "111", "сто одиннадцать", "Сто одиннадцать", "Сто одиннадцать.", "сто одиннадцать."
+        ],
+        "meta": {
+            "id": 4,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "fifty, six, one, forty-eight, one hundred eleven, fifty - write the largest number. Write only the answer.",
+        "outputs": [
+            "111", "сто одиннадцать", "Сто одиннадцать", "Сто одиннадцать.", "сто одиннадцать."
+        ],
+        "meta": {
+            "id": 5,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "50, 6, 1, 48, 111, 50 - напиши наименьшие число. Напиши только ответ.",
+        "outputs": [
+            "1", "один", "Один", "один.", "Один."
+        ],
+        "meta": {
+            "id": 6,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "L, VI, I, XLVIII, CXI, L - напиши наименьшие число. Напиши только ответ.",
+        "outputs": [
+            "1", "один", "Один", "один.", "Один.", "I"
+        ],
+        "meta": {
+            "id": 7,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "пятьдесят, шесть, один, сорок восемь, сто одиннадцать, пятьдесят - напиши наименьшие число. Напиши только ответ.",
+        "outputs": [
+            "1", "один", "Один", "один.", "Один."
+        ],
+        "meta": {
+            "id": 8,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "fifty, six, one, forty-eight, one hundred and eleven, fifty - напиши наименьшие число. Напиши только ответ.",
+        "outputs": [
+            "1", "один", "Один", "один.", "Один."
+        ],
+        "meta": {
+            "id": 9,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Выполни текстовое задание {inputs}.",
+        "inputs": "fifty, six, one, forty-eight, one hundred and eleven, fifty - write the smallest number. Write only the answer.",
+        "outputs": [
+            "1", "один", "Один", "один.", "Один."
+        ],
+        "meta": {
+            "id": 10,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "что больше А - 15 килограмм или Б - 1 пуд? В ответ напиши только букву.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 11,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "что больше А - XV килограмм или Б - I пуд? В ответ напиши только букву.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 12,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "что больше А - пятнадцать килограмм или Б - один пуд? В ответ напиши только букву.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 13,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "что больше А - fifteen киллограмм или Б - one пуд? В ответ напиши только букву.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 14,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "What is more A - fifteen kilograms or B - one pood? In the answer write only the letter.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 15,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "что больше А - 17 килограмм или Б - 1 пуд? В ответ напиши только букву.",
+        "outputs": [
+            "А", "А."
+        ],
+        "meta": {
+            "id": 16,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "что больше А - XVII килограмм или Б - I пуд? В ответ напиши только букву.",
+        "outputs": [
+            "А", "А."
+        ],
+        "meta": {
+            "id": 17,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "что больше А - семнадцать килограмм или Б - один пуд? В ответ напиши только букву.",
+        "outputs": [
+            "А", "А."
+        ],
+        "meta": {
+            "id": 18,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "что больше А - seventeen килограмм или Б - one пуд? В ответ напиши только букву.",
+        "outputs": [
+            "А", "А."
+        ],
+        "meta": {
+            "id": 19,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "What is more A - seventeen kilograms or B - one pood? In the answer write only the letter.",
+        "outputs": [
+            "А", "А."
+        ],
+        "meta": {
+            "id": 20,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А 900 тыс. или Б 1 млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "Б", "Б." 
+        ],
+        "meta": {
+            "id": 21,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А CM тыс. или Б I млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "Б", "Б." 
+        ],
+        "meta": {
+            "id": 22,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А девятьсот тыс. или Б один млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "Б", "Б." 
+        ],
+        "meta": {
+            "id": 23,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А nine hundred тыс. или Б one млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "Б", "Б." 
+        ],
+        "meta": {
+            "id": 24,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Which number is greater A nine hundred thousand or B one million? In your answer write only the letter of the number.",
+        "outputs": [
+            "Б", "Б.", "B" 
+        ],
+        "meta": {
+            "id": 25,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А 999 тыс. или Б 1 млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 26,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А CMXCIX тыс. или Б I млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 27,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А девятьсот девяносто девять тыс. или Б один млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 28,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А nine hundred ninety nine тыс. или Б one млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 29,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Which number is greater A nine hundred ninety nine thousand or B one million? In your answer write only the letter of the number.",
+        "outputs": [
+            "Б", "Б.", "B"
+        ],
+        "meta": {
+            "id": 30,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А 1999000 или Б 1 млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 31,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А MCMXCIX M или Б I млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 32,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А один миллион девятьсот девяносто девять тысяч или Б один млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 33,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А one million nine hundred ninety nine thousand или Б one млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 34,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Which number is greater A one million nine hundred ninety nine thousand or B one million? In your answer write only the letter of the number.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 35,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А 21 млн или Б 1 млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 36,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А XXI млн или Б I млн ? В ответ напиши только букву числа.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 37,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А двадцать один млн или Б один млн? В ответ напиши только букву числа.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 38,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше А twenty-one million или Б one million? В ответ напиши только букву числа.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 39,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Which number is greater A twenty-one million or B one million? In your answer, write only the letter of the number.",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 40,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше 902000 или 932000? В ответ напиши только число",
+        "outputs": [
+            "932 000", "932000", "девятьсот тридцать две тысячи", "nine hundred thirty two thousand"
+        ],
+        "meta": {
+            "id": 41,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше CMII тыс.  или CMXXXII тыс. ? В ответ напиши только число",
+        "outputs": [
+            "932 000", "932000", "девятьсот тридцать две тысячи", "nine hundred thirty two thousand"
+        ],
+        "meta": {
+            "id": 42,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше девятьсот две тысячи или девятьсот тридцать две тысячи? В ответ напиши только число",
+        "outputs": [
+            "932 000", "932000", "девятьсот тридцать две тысячи", "nine hundred thirty two thousand"
+        ],
+        "meta": {
+            "id": 43,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Какое число больше nine hundred two thousand или nine hundred thirty two thousand? В ответ напиши только число",
+        "outputs": [
+            "932 000", "932000", "девятьсот тридцать две тысячи", "nine hundred thirty two thousand"
+        ],
+        "meta": {
+            "id": 44,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Which number is greater, nine hundred two thousand or nine hundred thirty two thousand? In the answer, write only the number",
+        "outputs": [
+            "932 000", "932000", "девятьсот тридцать две тысячи", "nine hundred thirty two thousand"
+        ],
+        "meta": {
+            "id": 45,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А 100 килограмм или В 10 грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 46,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А C килограмм или В X грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 47,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А сто килограмм или В десять грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 48,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А hundred kilograms или В ten grams? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 49,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "What is more A hundred kilograms or B ten grams? Give the letter in answer",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 50,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А 300 килограмм или В 300 грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 51,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А CCC килограмм или В CCC грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 52,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А триста килограмм или В триста грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 53,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А three hundred kilograms или В three hundred grams? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 54,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "What is more A three hundred kilograms or B three hundred grams? Give the letter in answer",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 55,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А 400 килограмм или В 4000 грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 56,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А CCC килограмм или В MMMM грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 57,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А четыреста килограмм или В четыре тысячи грамм? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 58,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Что больше А four hundred kilograms или В four thousand grams? В ответ дай букву",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 59,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "What is more A four hundred kilograms or B four thousand grams? Give the letter in answer",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 60,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет 10020 жителей в городе Б живет 10000 жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 61,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет X̅XX жителей в городе Б живет X̅ жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 62,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет десять тысяч двадцать  жителей в городе Б живет десять тысяч жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 63,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет ten thousand twenty жителей в городе Б живет ten thousand жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 64,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "City A has ten thousand twenty residents, city B has ten thousand residents. Which city has more residents? Just write the letter?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 65,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет 10001 жителей в городе Б живет 10000 жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 66,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет X̅I жителей в городе Б живет X̅ жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 67,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет десять тысяч один житель в городе Б живет десять тысяч жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 68,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет ten thousand and one жителей в городе Б живет ten thousand жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 69,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "In city A there are ten thousand and one resident, in city B there are ten thousand residents. Which city has more residents, write only the letter?",
+        "outputs": [
+            "А", "А.", "A"
+        ],
+        "meta": {
+            "id": 70,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Напиши максимальное число из ряда чисел 2, 32, 54, 78, 72, 10, 11, 23, 99. В ответе напиши только число",
+        "outputs": [
+            "99", "ninety-nine", "девяносто девять", "XCIX"
+        ],
+        "meta": {
+            "id": 71,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Напиши максимальное число из ряда чисел II, XXXII, LIV, LXXVIII, LXXII, X, XI, XXIII, XCIX. В ответе напиши только число",
+        "outputs": [
+            "99", "ninety-nine", "девяносто девять", "XCIX"
+        ],
+        "meta": {
+            "id": 72,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Напиши максимальное число из ряда чисел два, тридцать два, пятьдесят четыре, семьдесят восемь, семьдесят два, десять, одиннадцать, двадцать три, девяносто девять. В ответе напиши только число",
+        "outputs": [
+            "99", "ninety-nine", "девяносто девять", "XCIX"
+        ],
+        "meta": {
+            "id": 73,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Напиши максимальное число из ряда чисел two, thirty-two, fifty-four, seventy-eight, seventy-two, ten, eleven, twenty-three, ninety-nine. В ответе напиши только число",
+        "outputs": [
+            "99", "ninety-nine", "девяносто девять", "XCIX"
+        ],
+        "meta": {
+            "id": 74,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Write the maximum number from the series of numbers two, thirty-two, fifty-four, seventy-eight, seventy-two, ten, eleven, twenty-three, ninety-nine. In the answer write only the number",
+        "outputs": [
+            "99", "ninety-nine", "девяносто девять", "XCIX"
+        ],
+        "meta": {
+            "id": 75,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Напиши минимальное число из ряда чисел 2, 32, 54, 78, 72, 10, 11, 23, 99. В ответе напиши только число",
+        "outputs": [
+            "2", "II", "два", "two"
+        ],
+        "meta": {
+            "id": 76,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Напиши минимальное число из ряда чисел II, XXXII, LIV, LXXVIII, LXXII, X, XI, XXIII, XCIX. В ответе напиши только число",
+        "outputs": [
+            "2", "II", "два", "two"
+        ],
+        "meta": {
+            "id": 77,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Напиши минимальное число из ряда чисел два, тридцать два, пятьдесят четыре, семьдесят восемь, семьдесят два, десять, одиннадцать, двадцать три, девяносто девять. В ответе напиши только число",
+        "outputs": [
+            "2", "II", "два", "two"
+        ],
+        "meta": {
+            "id": 78,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Напиши минимальное число из ряда чисел two, thirty-two, fifty-four, seventy-eight, seventy-two, ten, eleven, twenty-three, ninety-nine. В ответе напиши только число",
+        "outputs": [
+            "2", "II", "два", "two"
+        ],
+        "meta": {
+            "id": 79,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "Write the smallest number from the series of numbers two, thirty-two, fifty-four, seventy-eight, seventy-two, ten, eleven, twenty-three, ninety-nine. In the answer write only the number",
+        "outputs": [
+            "2", "II", "два", "two"
+        ],
+        "meta": {
+            "id": 80,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "В ответе напиши 2 слово если оно длиннее 1, и 3 слово если 2 слово короче 1 из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "берёза"
+        ],
+        "meta": {
+            "id": 81,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "В ответе напиши II слово если оно длиннее I, и III слово если II слово короче I из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "берёза"
+        ],
+        "meta": {
+            "id": 82,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "В ответе напиши второе слово если оно длиннее первого, и третье слово если второе слово короче первого из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "берёза"
+        ],
+        "meta": {
+            "id": 83,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "В ответе напиши second слово если оно длиннее first, и third слово если second слово короче first из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "берёза"
+        ],
+        "meta": {
+            "id": 84,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "In the answer, write the second word if it is longer than the first, and the third word if the second word is shorter than the first from the text {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "берёза"
+        ],
+        "meta": {
+            "id": 85,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "В ответе напиши 3 слово из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "под", "Третье слово: под.", "Третье слово: под"
+        ],
+        "meta": {
+            "id": 86,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "В ответе напиши III слово из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "под", "Третье слово: под.", "Третье слово: под"
+        ],
+        "meta": {
+            "id": 87,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "В ответе напиши третье слово из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "под", "Третье слово: под.", "Третье слово: под"
+        ],
+        "meta": {
+            "id": 88,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "В ответе напиши third слово из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "под", "Третье слово: под.", "Третье слово: под"
+        ],
+        "meta": {
+            "id": 89,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "In your answer, write the third word from the text {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "под", "Третье слово: под.", "Третье слово: под"
+        ],
+        "meta": {
+            "id": 90,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "В ответе напиши 2 предложение если оно длиннее 1, и 1 если оно короче 2 из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "На пушистых ветках снежною каймой распустились кисти белой бахромой.", "На пушистых ветках снежною каймой распустились кисти белой бахромой"
+        ],
+        "meta": {
+            "id": 91,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "В ответе напиши II предложение если оно длиннее I, и I если оно короче II из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "На пушистых ветках снежною каймой распустились кисти белой бахромой.", "На пушистых ветках снежною каймой распустились кисти белой бахромой"
+        ],
+        "meta": {
+            "id": 92,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "В ответе напиши второе предложение если оно длиннее первого, и первое если оно короче второго из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "На пушистых ветках снежною каймой распустились кисти белой бахромой.", "На пушистых ветках снежною каймой распустились кисти белой бахромой"
+        ],
+        "meta": {
+            "id": 93,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "В ответе напиши second предложение если оно длиннее first, и first если оно короче second из текста {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "На пушистых ветках снежною каймой распустились кисти белой бахромой.", "На пушистых ветках снежною каймой распустились кисти белой бахромой"
+        ],
+        "meta": {
+            "id": 94,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "In the answer, write the second sentence if it is longer than the first, and the first if it is shorter than the second from the text {inputs}",
+        "inputs": "Белая берёза под моим окном принакрылась снегом, точно серебром. На пушистых ветках снежною каймой распустились кисти белой бахромой. И стоит берёза в сонной тишине, и горят снежинки в золотом огне. А заря, лениво обходя кругом, обсыпает ветки новым серебром.",
+        "outputs": [
+            "На пушистых ветках снежною каймой распустились кисти белой бахромой.", "На пушистых ветках снежною каймой распустились кисти белой бахромой"
+        ],
+        "meta": {
+            "id": 95,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет 10020 жителей в городе Б живет 20000 жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 96,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "arabic_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет X̅XX жителей в городе Б живет X̅X̅ жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 97,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "roman_num"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет десять тысяч двадцать жителей в городе Б живет двадцать тысяч жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 98,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "в городе А живет ten thousand twenty жителей в городе Б живет twenty thousand жителей. В каком городе жителей больше, напиши только букву?",
+        "outputs": [
+            "Б", "Б."
+        ],
+        "meta": {
+            "id": 99,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "ru_en"
+        }
+    },
+    {
+        "instruction": "Ответь на вопрос в {inputs}. ",
+        "inputs": "City A has ten thousand twenty residents, city B has twenty thousand residents. Which city has more residents? Just write the letter?",
+        "outputs": [
+            "Б", "Б.", "B"
+        ],
+        "meta": {
+            "id": 100,
+            "task_type": "Сравнение числовых значений",
+            "type_input": "en"
+        }
+    }
+
+    
+]
